@@ -7,7 +7,7 @@
 					<content>
 						<l:FixFlex>
 							<l:fixContent>
-								<Text text="Hi Puri is a super women"/>
+								<Text text="Hi.......Puri is a super women"/>
 							</l:fixContent>
 							<l:flexContent>
 								<f:FlexibleColumnLayout id="flexibleColumnLayout" stateChange=".onStateChanged" layout="{FlexibleColumnUIState>/layout}"
