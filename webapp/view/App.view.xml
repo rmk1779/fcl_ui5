@@ -3,11 +3,11 @@
 	<Shell id="shell">
 		<App id="app">
 			<pages>
-				<Page id="page" showHeader="false">
+				<Page id="page" showHeader="false" >
 					<content>
 						<l:FixFlex>
 							<l:fixContent>
-								<Text text="Hi Puri maharshi"/>
+								<Text text="Hi Puri is a super women" />
 							</l:fixContent>
 							<l:flexContent>
 								<f:FlexibleColumnLayout id="flexibleColumnLayout" stateChange=".onStateChanged" layout="{FlexibleColumnUIState>/layout}"
