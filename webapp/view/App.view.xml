@@ -7,7 +7,7 @@
 					<content>
 						<l:FixFlex>
 							<l:fixContent>
-								<Text text="Hi Poori"/>
+								<Text text="Hi Poori maharshi"/>
 							</l:fixContent>
 							<l:flexContent>
 								<f:FlexibleColumnLayout id="flexibleColumnLayout" stateChange=".onStateChanged" layout="{FlexibleColumnUIState>/layout}"
