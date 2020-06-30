@@ -26,6 +26,7 @@
 			<core:Fragment type="XML" fragmentName="FCL.Flex_Col_Layout.view.fragments.masterTable"/>
 			<Button text="Click for triple Column" press="onTripleColumn"></Button>
 			<Button text="SelectedData" press="onSelectRows"></Button>
+	
 			</VBox>
 		</f:content>
 	</f:DynamicPage>
