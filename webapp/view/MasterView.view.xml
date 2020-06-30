@@ -4,7 +4,8 @@
 		<f:title>
 			<f:DynamicPageTitle>
 				<f:heading>
-					<Title text="Dynamic Header"/>
+					<Title text="Dyno header"/>
+					
 				</f:heading>
 				<f:navigationActions>
 					<Button icon="sap-icon://full-screen" type="Transparent" press="setFullScreen"/>
