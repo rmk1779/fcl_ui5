@@ -40,7 +40,7 @@ sap.ui.define([
 				oModel.setProperty("/passedData", aPassingData);
 
 				FlexibleColumnUIState.setProperty("/layout", "TwoColumnsMidExpanded");
-				this.oRouter.navTo("secondHome");
+				this.getRouter().navTo("secondHome");
 
 			}
 
